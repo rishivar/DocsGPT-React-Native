@@ -41,9 +41,14 @@ npm run android
 
 ### Screenshots
 
+
+#### Upload Screen
+
 ![Upload](  
     screenshots/Upload.png
     )
+
+#### Chat Screen
 
 ![Chat](  
     screenshots/Chat_Screen.png
